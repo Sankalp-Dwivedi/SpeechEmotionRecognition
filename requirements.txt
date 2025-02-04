@@ -1,0 +1,8 @@
+speechbrain 
+flask 
+pyngrok 
+torchaudio 
+librosa 
+transformers 
+pyannote.audio 
+torch
